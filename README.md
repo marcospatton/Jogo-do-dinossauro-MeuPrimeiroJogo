@@ -5,6 +5,11 @@
  Treinar CSS e Aprender JavaScript
  
  
+ <h2>Como funciona</h2>
+ 
+ Ao carregar a página, clique sobre o personagem vermelho para o mesmo pular e não deixar o quadrado colidir com o mesmo, você perde se o quadrado azul colidir com o personagem vermelho.
+ 
+ 
  
  
  
